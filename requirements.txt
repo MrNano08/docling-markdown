@@ -1,0 +1,4 @@
+gradio>=6.5,<7
+docling[easyocr]>=2.70,<3
+markitdown[pdf,docx,pptx,xlsx,xls]>=0.1.6,<0.2
+pypdf>=5,<7
